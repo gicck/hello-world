@@ -1,1 +1,1 @@
-var hook = 'demos';
+let hook = "demos";
