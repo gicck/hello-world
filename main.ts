@@ -1,1 +1,2 @@
-var ts = 'tscar';
+// tslint:disable-next-line: no-console
+console.log("hi");
